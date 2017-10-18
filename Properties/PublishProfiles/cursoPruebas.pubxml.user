@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\fetallerpruebas</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WcfTallerAutomatizacionCasosPrueba.dll">
+      <publishTime>10/18/2017 16:21:59</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-grid.css">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-reboot.css">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.css">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.css.map">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.min.css">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.min.css.map">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.js">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.min.js">
+      <publishTime>10/18/2017 11:27:51</publishTime>
+    </File>
+    <File Include="BuscarPrecio.aspx">
+      <publishTime>10/18/2017 11:42:44</publishTime>
+    </File>
+    <File Include="Concatenar.aspx">
+      <publishTime>10/16/2017 17:23:12</publishTime>
+    </File>
+    <File Include="validaNotaVenta.svc">
+      <publishTime>10/12/2017 09:45:46</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/18/2017 16:22:00</publishTime>
+    </File>
+    <File Include="xsd/notaVenta.xsd">
+      <publishTime>10/12/2017 14:50:17</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
